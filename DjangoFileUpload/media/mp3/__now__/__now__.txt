@@ -1,0 +1,16 @@
+http://121.127.79.53:8000/media/mp3/__now__/allsong.py
+http://121.127.79.53:8000/media/mp3/__now__/bass.txt
+http://121.127.79.53:8000/media/mp3/__now__/chill.txt
+http://121.127.79.53:8000/media/mp3/__now__/drumstep.txt
+http://121.127.79.53:8000/media/mp3/__now__/drum_and_bass.txt
+http://121.127.79.53:8000/media/mp3/__now__/dubstep.txt
+http://121.127.79.53:8000/media/mp3/__now__/edm.txt
+http://121.127.79.53:8000/media/mp3/__now__/electronic.txt
+http://121.127.79.53:8000/media/mp3/__now__/future_house.txt
+http://121.127.79.53:8000/media/mp3/__now__/hardstyle.txt
+http://121.127.79.53:8000/media/mp3/__now__/house.txt
+http://121.127.79.53:8000/media/mp3/__now__/indie.txt
+http://121.127.79.53:8000/media/mp3/__now__/melodic_dubstep.txt
+http://121.127.79.53:8000/media/mp3/__now__/now.txt
+http://121.127.79.53:8000/media/mp3/__now__/trap.txt
+http://121.127.79.53:8000/media/mp3/__now__/__now__.txt
